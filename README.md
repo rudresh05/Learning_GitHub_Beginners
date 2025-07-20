@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-This repository contains summarized and structured **notes in PDF format** for the topic **“GitHub for Beginners”**, based on the lectures from my **college's official YouTube channel**.
+This repository contains summarized and structured **notes in PDF format** for the topic **“GitHub for Beginners”**, based on the lectures from my **Apna College official YouTube channel**.
 
 ## 🧠 What’s Inside
 
@@ -28,38 +28,22 @@ This PDF is perfect for:
 
 ## 📥 Download Notes
 
-👉 [Click here to download the PDF](./GitHub-For-Beginners-Notes.pdf)
+👉 [Click here to download the PDF]([./GitHub-For-Beginners-Notes.pdf](https://github.com/rudresh05/Learning_GitHub_Beginners/blob/main/git_github_notes.pdf))
 
 > 💡 File Name: `GitHub-For-Beginners-Notes.pdf`
 
 ## 📽️ Source: College YouTube Channel
 
-All credit for the original content goes to the **[Your College Name]**'s YouTube channel. I’ve just summarized and formatted it into PDF form for easier understanding and revision.
+All credit for the original content goes to the **[Apna College]**'s YouTube channel. I’ve just summarized and formatted it into PDF form for easier understanding and revision.
 
-📺 Watch original playlist here: _[Paste YouTube Link if available]_  
-🎓 Channel Name: _[Your College YouTube Channel Name]_
+📺 Watch original playlist here: [Apna College](https://youtu.be/Ez8F0nW6S-w?si=mJsZaNA1MjiHrHY1)
 
 ## 🙋‍♂️ Author
 
 Made with ❤️ by **Rudresh Patel**  
 📧 [rudreshpatel504@gmail.com](mailto:rudreshpatel504@gmail.com)  
-🔗 [GitHub Profile](https://github.com/rudra-gitx)
+🔗 [GitHub Profile](https://github.com/rudresh05)
 
 ---
 
 > If you found it helpful, feel free to ⭐️ star this repo and share it with friends!
-
-
-
-
-
-
-
-
-
-
-
-# Getting Started With Git and GitHub
-Learning Git and GitHub. The following commands below are to be run in the Terminal. I am using  Linux for learn git. For a good overview on how to use the Terminal see this tutorial from [Apna College](https://youtu.be/Ez8F0nW6S-w?si=mJsZaNA1MjiHrHY1). There is also a [GitHub Desktop Application](https://desktop.github.com/) for GitHub if you'd prefer to not use the Terminal.App.
-# Notes----
-Here I am attaching a [Pdf Notes](https://github.com/rudresh05/Learning_GitHub_Beginners_Perspective/blob/main/git_github_notes.pdf) create by me from [Apna College](https://youtu.be/Ez8F0nW6S-w?si=mJsZaNA1MjiHrHY1).
