@@ -28,7 +28,7 @@ This PDF is perfect for:
 
 ## 📥 Download Notes
 
-👉 [Click here to download the PDF]([.git_github_notes.pdf))
+👉 [Click here to download the PDF](git_github_notes.pdf))
 
 > 💡 File Name: `GitHub-For-Beginners-Notes.pdf`
 
